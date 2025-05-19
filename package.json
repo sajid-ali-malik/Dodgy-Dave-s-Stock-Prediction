@@ -1,5 +1,5 @@
 {
-  "name": "Scrim-s05qcfg",
+  "name": "scrim-s05qcfg",
   "description": "https://scrimba.com/the-ai-engineer-path-c02v/~03",
   "scripts": {
     "start": "vite",
@@ -8,7 +8,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "dotenv": "^16.5.0",
+    "openai": "^4.100.0",
     "vite": "latest"
   },
-  "devDependencies": {}
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajid-ali-malik/Dodgy-Dave-s-Stock-Prediction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajid-ali-malik/Dodgy-Dave-s-Stock-Prediction/issues"
+  },
+  "homepage": "https://github.com/sajid-ali-malik/Dodgy-Dave-s-Stock-Prediction#readme"
 }
